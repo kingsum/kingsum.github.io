@@ -8,3 +8,6 @@ In March 2023, Kingsum joined the faculty of the School of Software Technology, 
 
 * [LinkedIn](https://www.linkedin.com/in/kingsumchow/)
 * Email: ksumchow at outlook dot com
+
+## PIPA - a project I prepared to describe system performance analysis
+https://github.com/kingsum/PIPA/wiki
