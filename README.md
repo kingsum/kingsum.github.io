@@ -7,4 +7,4 @@ In March 2023, Kingsum joined the faculty of the School of Software Technology, 
 ## Ways to contact me
 
 * [LinkedIn](https://www.linkedin.com/in/kingsumchow/)
-* [Email: ksumchow at outlook dot com]
+* Email: ksumchow at outlook dot com
